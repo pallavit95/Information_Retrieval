@@ -1,0 +1,15 @@
+[1] Improving Search Ranking Using a Composite Scoring Approach https://digitalcommons.unf.edu/cgi/viewcontent.cgi?article=1822&context=etd 
+
+[2] F. B. Dian Paskalis and M. L. Khodra, "Word sense disambiguation in information retrieval using query expansion," Proceedings of the 2011 International Conference on Electrical Engineering and Informatics, 2011, pp. 1-6, doi: 10.1109/ICEEI.2011.6021532.
+
+[3] https://lucene.apache.org/core/6_6_1/analyzers-common/org/apache/lucene/analysis/miscellaneous/WordDelimiterGraphFilter.html
+
+[4] https://lucene.apache.org/core/6_4_1/analyzers-common/org/apache/lucene/analysis/synonym/SynonymGraphFilter.html
+
+[5] https://trec.nist.gov/pubs/trec21/papers/irra.web.nb.pdf
+
+[6] https://github.com/elastic/elasticsearch/blob/main/docs/reference/index-modules/similarity.asciidoc
+
+[7] Edward Kai Fung Dang, Robert Wing Pong Luk, and James Allan. 2021. A Comparison between Term-Independence Retrieval Models for Ad Hoc Retrieval. ACM Trans. Inf. Syst. 40, 3, Article 62 (July 2022), 37 pages. https://doi.org/10.1145/3483612
+
+[8] A. Arslan and O. Yilmazel, "Quality benchmarking relational databases and Lucene in the TREC4 adhoc task environment," Proceedings of the International Multiconference on Computer Science and Information Technology, 2010, pp. 365-372, doi: 10.1109/IMCSIT.2010.5679643.
